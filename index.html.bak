@@ -3,31 +3,38 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+    <title>Rezume of Cat</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Itim&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Itim&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Itim&amp;family=Mali:wght@500&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Itim&amp;family=Mali:wght@500&amp;display=swap"
+
       rel="stylesheet">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid"> <a class="navbar-brand  font" href="#"> 😺
-          Cat </a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-          data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+          Cat </a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+
+          data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+
           aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
         </button>
         <div class="sidebar offcanvas offcanvas-start" id="navbarNavAltMarkup">
           <div class="navbar-nav">
             <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
-              <li class="nav-item mx-2"> <a class="nav-link active" aria-current="page"
+              <li class="nav-item mx-2"> <a class="nav-link active" aria-current="page"
+
                   href="#home">Home</a> </li>
               <li class="nav-item mx-2"> <a class="nav-link" href="#aboutme">About
                   me😺</a> </li>
@@ -41,18 +48,23 @@
               </li>
               <li class="nav-item mx-2"> <a class="nav-link" href="#love">Love😺</a>
               </li>
-              <li class="nav-item dropdown mx-2"> <a class="nav-link dropdown-toggle"
-                  href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown"
+              <li class="nav-item dropdown mx-2"> <a class="nav-link dropdown-toggle"
+
+                  href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown"
+
                   aria-expanded="true"> Contact me😺 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li> <a class="dropdown-item mx-1" href="#"><img src="images/email.png"
+                  <li> <a class="dropdown-item mx-1" href="#"><img src="images/email.png"
+
                         alt="" class="img-fluid" width="10%">
                       Klinthuesin_p@su.ac.th </a> </li>
                   <hr>
-                  <li><a class="dropdown-item" href="#"><img src="images/line.png"
+                  <li><a class="dropdown-item" href="#"><img src="images/line.png"
+
                         alt="" class="img-fluid mx-1" width="10%">Pkkat30</a></li>
                   <hr>
-                  <li><a class="dropdown-item" href="#"><img src="images/phone-call.png"
+                  <li><a class="dropdown-item" href="#"><img src="images/phone-call.png"
+
                         alt="" class="img-fluid  mx-1" width="10%">0121212121</a></li>
                 </ul>
               </li>
@@ -64,8 +76,10 @@
     <div class="bg">
       <div class="container-fluid">
         <div class="row text">
-          <div class="col-6" style="text-align: center;"> <img src="images/IMG_6251.jpg"
-              class="img-fluid img-thumbnail mx-auto d-block center" alt="1" title="1"><a
+          <div class="col-6" style="text-align: center;"> <img src="images/IMG_6251.jpg"
+
+              class="img-fluid img-thumbnail mx-auto d-block center" alt="1" title="1"><a
+
               name="home" id="home"></a></div>
           <div class="col-6">
             <h1 class="midtext" style="text-align: left;"> Phimonphat
@@ -77,14 +91,16 @@
       </div>
     </div>
     <div class="container mt-5">
-      <h2 style="text-align: center; background-color: white;"><a id="aboutme"><span
+      <h2 style="text-align: center; background-color: white;"><a id="aboutme"><span
+
             style="color: #00cccc;"> About Me😺 </span></a></h2>
       <hr> </div>
     <div class="bg2">
       <div class="container">
         <div class="row" style="text-align: center;">
           <div class="col-4"> </div>
-          <div class="col-4 mt-4" style="text-align: center;"> <img src="images/dclassic%202566-02-15%20212607.236.JPG"
+          <div class="col-4 mt-4" style="text-align: center;"> <img src="images/dclassic%202566-02-15%20212607.236.JPG"
+
               class="circle img-fluid" alt="" width="100%"> </div>
           <div class="col-4"> </div>
           <div class="row my-5" style="text-align: center;">
@@ -105,17 +121,20 @@
       </div>
       <hr>
       <div class="row">
-        <div class="col-4" style="text-align: center;"> <img src="images/Rachineeburana_School_logo.png"
+        <div class="col-4" style="text-align: center;"> <img src="images/Rachineeburana_School_logo.png"
+
             class="img-fluid" alt="ๅ" title="ๅ" width="30%">
           <p class="font2 mt-3" style="text-align: center;">
             ระดับมัธยมศึกษาตอนต้นโรงเรียนราชินีบูรณะ นครปฐม</p>
         </div>
-        <div class="col-4" style="text-align: center;"> <img src="images/yrc_logo.png"
+        <div class="col-4" style="text-align: center;"> <img src="images/yrc_logo.png"
+
             class="img-fluid" alt="1" title="1" width="30%">
           <p class="font2 mt-3" style="text-align: center;">
             ระดับมัธยมศึกษาตอนปลาย โรงเรียนยุพราชวิทยาลัยเชียงใหม่</p>
         </div>
-        <div class="col-4" style="text-align: center;"> <img src="images/Silpakorn_University_Logo_02.png"
+        <div class="col-4" style="text-align: center;"> <img src="images/Silpakorn_University_Logo_02.png"
+
             class="img-fluid" alt="1" title="1" style="text-align: center;" width="38%">
           <p class="font2 mt-3" style="text-align: center;"> ระดับอุดมศึกษา <br>
             มหาวิทยาลัยศิลปากร นครปฐม</p>
@@ -128,7 +147,8 @@
       <hr> </div>
     <div class="container">
       <div class="row">
-        <div class=" mt-4 col-3"> <img src="images/IMG_7369.JPG" class="img-fluid"
+        <div class=" mt-4 col-3"> <img src="images/IMG_7369.JPG" class="img-fluid"
+
             alt="11" title="11"></div>
         <div class="col-8 h2 font2"><span style="color: #339999;">
             <h1> Trendy&amp;Smarts Team 2021 </h1>
@@ -140,7 +160,8 @@
         <div class="col-1"> </div>
       </div>
       <div class="row">
-        <div class=" mt-4 col-3"><img src="images/F435AF2B-922D-4D1D-9047-F5ABEBE3564E.JPG"
+        <div class=" mt-4 col-3"><img src="images/F435AF2B-922D-4D1D-9047-F5ABEBE3564E.JPG"
+
             class="img-fluid" alt="2" title="2"></div>
         <div class="col-8 h2 font2"><span style="color: #339999;">
             <h1> Moderator of Artsalive </h1>
@@ -152,7 +173,8 @@
         </div>
       </div>
       <div class="row">
-        <div class=" mt-4 col-3"><img src="images/C83089A1-8E80-4D71-9F7D-AB885916474B.JPG"
+        <div class=" mt-4 col-3"><img src="images/C83089A1-8E80-4D71-9F7D-AB885916474B.JPG"
+
             class="img-fluid" alt="3" title="3"></div>
         <div class="col-8 h2 font2"><span style="color: #339999;">
             <h1> Staff พิธีไหว้ครู </h1>
@@ -161,7 +183,8 @@
         </div>
       </div>
       <div class="row">
-        <div class=" mt-4 col-3"><img src="images/IMG_3889.jpg" class="img-fluid"
+        <div class=" mt-4 col-3"><img src="images/IMG_3889.jpg" class="img-fluid"
+
             alt="1" title="1"></div>
         <div class="col-8 h2
                     font2"><span style="color: #339999;">
@@ -176,13 +199,15 @@
               Experience😺</span></a> </h2>
         <hr> </div>
       <div class="row">
-        <div class="mt-4 col-6"> <img src="images/IMG_7362.PNG" class="circle img-fluid"
+        <div class="mt-4 col-6"> <img src="images/IMG_7362.PNG" class="circle img-fluid"
+
             alt="1" title="1"><br>
           <p class="mt-3 font2"> ดิฉันเคยทำงานเป็นครูผู้ช่วยในสถาบัน Kumon
             รับหน้าที่ในการดูแลเด็กนักเรียนในทุกช่วงวัย ในรายวิชาภาษาไทย
             ภาษาอังกฤษและคณิตศาสตร์ </p>
         </div>
-        <div class="mt-4 col-6"><img src="images/IMG_7363.JPG" class="circle img-fluid"
+        <div class="mt-4 col-6"><img src="images/IMG_7363.JPG" class="circle img-fluid"
+
             alt="2" title="2"><br>
           <p class="mt-3 font2">
             ดิฉันเคยทำงานเป็นพนังงานร้านเครื่องดื่มและเบเกอร์รี่ร้านมะลิฟาร์ม
@@ -195,13 +220,15 @@
         <hr><br>
       </div>
       <div class="row">
-        <div class="mt-4 col-6"><img src="images/IMG_3855.jpg" class="img-fluid"
+        <div class="mt-4 col-6"><img src="images/IMG_3855.jpg" class="img-fluid"
+
             alt="1" title="1">
           <p class="pt-3 font2"> ดิฉันมักใช้เวลาว่างไปกับการนอนค่ะ
             แต่นอกจากนอนแล้วก็ยังมีกิจกรรมอื่น ๆ เช่น การฟังเพลง ดูการ์ตูน
             วาดรูป ถ่ายรูป ทำอาหาร และอ่านหนังสือค่ะ </p>
         </div>
-        <div class="mt-4 col-6"><img src="images/tongdee.jpg" class="img-fluid"
+        <div class="mt-4 col-6"><img src="images/tongdee.jpg" class="img-fluid"
+
             cl="">
           <p class="pt-3 font2"> ฉันมีสุนัขสองตัวค่ะ แต่ก่อนมีสามตัว
             ฉันรักหมาและสัตว์หลากหลายชนิด
@@ -209,7 +236,7 @@
         </div>
       </div>
       <div class="row" style="text-align: center;">
-        <h2 style="text-align: center;" class="mt-4"> <a id="love"><span style="color: #66cccc;">Love</span></a>
+        <h2 style="text-align: center;" class="mt-4"> <a id="love"><span style="color: #66cccc;">Love😺/</span></a>
         </h2>
         <hr><br>
         <p class="pt-3 font2"> ฉันชอบดอกไม้ การดูดาว พระจันทร์ และท้องฟ้า
@@ -217,13 +244,16 @@
       </div>
       <div class="row">
         <div class="col-4"> </div>
-        <div class="col-4 mt-4" style="text-align: center;"> <img src="images/IMG_3892.jpg"
+        <div class="col-4 mt-4" style="text-align: center;"> <img src="images/IMG_3892.jpg"
+
             class="circle img-fluid" width="100%"> </div>
         <div class="col-4"> </div>
       </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
 crossorigin="anonymous"></script>
     <footer class="page-footer mt-4">
       <h3 style="text-align: center;" class="py-4"> Thank you </h3>
