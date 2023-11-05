@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rezume about แคท</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Itim&amp;display=swap"
+
+      rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Itim&amp;family=Mali:wght@500&amp;display=swap"
+
+      rel="stylesheet">
+    <meta name="keywords" content="แคท" />
+		<meta name="description" content="Aboutแคท Rezume" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid"> <a class="navbar-brand  font" href="#"> 😺
+          Cat </a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+
+          data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+
+          aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="sidebar offcanvas offcanvas-start" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+              <li class="nav-item mx-2"> <a class="nav-link active" aria-current="page"
+
+                  href="#home">Home</a> </li>
+              <li class="nav-item mx-2"> <a class="nav-link" href="#aboutme">About
+                  แคท 😺</a> </li>
+              <li class="nav-item mx-2"> <a class="nav-link" href="#edu">Education😺</a>
+              </li>
+              <li class="nav-item mx-2"> <a class="nav-link" href="#act">Activities😺</a>
+              </li>
+              <li class="nav-item mx-2"> <a class="nav-link" href="#work">Work
+                  Experience😺</a> </li>
+              <li class="nav-item mx-2"> <a class="nav-link" href="#hobby">Hobby😺</a>
+              </li>
+              <li class="nav-item mx-2"> <a class="nav-link" href="#love">Love😺</a>
+              </li>
+              <li class="nav-item dropdown mx-2"> <a class="nav-link dropdown-toggle"
+
+                  href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown"
+
+                  aria-expanded="true"> Contact me😺 </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <li> <a class="dropdown-item mx-1" href="#"><img src="images/email.png"
+
+                        alt="" class="img-fluid" width="10%">
+                      Klinthuesin_p@su.ac.th </a> </li>
+                  <hr>
+                  <li><a class="dropdown-item" href="#"><img src="images/line.png"
+
+                        alt="" class="img-fluid mx-1" width="10%">Pkkat30</a></li>
+                  <hr>
+                  <li><a class="dropdown-item" href="#"><img src="images/phone-call.png"
+
+                        alt="" class="img-fluid  mx-1" width="10%">0121212121</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="bg">
+      <div class="container-fluid">
+        <div class="row text">
+          <div class="col-6" style="text-align: center;"> <img src="images/IMG_6251.jpg"
+
+              class="img-fluid img-thumbnail mx-auto d-block center" alt="1" title="1"><a
+
+              name="home" id="home"></a></div>
+          <div class="col-6">
+            <h1 class="midtext" style="text-align: left;"> Phimonphat
+              Klinthuesin</h1>
+            <p class="midtext2" style="text-align: left;"> I wish I was a CAT no
+              works no school just meow meow. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5">
+      <h2 style="text-align: center; background-color: white;"><a id="aboutme"><span
+
+            style="color: #00cccc;"> About </span><span style="color: #00cccc;">แค
+            ท 😺 </span></a></h2>
+      <hr> </div>
+    <div class="bg2">
+      <div class="container">
+        <div class="row" style="text-align: center;">
+          <div class="col-4"> </div>
+          <div class="col-4 mt-4" style="text-align: center;"> <img src="images/dclassic%202566-02-15%20212607.236.JPG"
+
+              class="circle img-fluid" alt="" width="100%"> </div>
+          <div class="col-4"> </div>
+          <div class="row my-5" style="text-align: center;">
+            <h3 class="font">นางสาว พิมณพัฒน์ กลิ่นถือศีล ( แคท ) 640510556</h3>
+            <p class="font2">เอกสารสนเทศศาสตร์และบรรณารักษศาสตร์ โทวิชาภาษาไทย
+              ชั้นปีที่ 3 </p>
+            <p class="font2">เกิด : 30 / May / 2003</p>
+            <p class="font2"> ที่อยู่ : หมู่บ้านโครงการอยู่สบาย สนามกีฬา ซอย 11
+              หมู่ 6 ตำบลห้วยจรเข้ อำเภอเมืองนครปฐม จังหวัดนครปฐม 73000 </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row" style="text-align: center;">
+        <h2 class="mt-4"> <a id="edu"><span style="color: #66cccc;">Education😺</span></a>
+        </h2>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-4" style="text-align: center;"> <img src="images/Rachineeburana_School_logo.png"
+
+            class="img-fluid" alt="ๅ" title="ๅ" width="30%">
+          <p class="font2 mt-3" style="text-align: center;">
+            ระดับมัธยมศึกษาตอนต้นโรงเรียนราชินีบูรณะ นครปฐม</p>
+        </div>
+        <div class="col-4" style="text-align: center;"> <img src="images/yrc_logo.png"
+
+            class="img-fluid" alt="1" title="1" width="30%">
+          <p class="font2 mt-3" style="text-align: center;">
+            ระดับมัธยมศึกษาตอนปลาย โรงเรียนยุพราชวิทยาลัยเชียงใหม่</p>
+        </div>
+        <div class="col-4" style="text-align: center;"> <img src="images/Silpakorn_University_Logo_02.png"
+
+            class="img-fluid" alt="1" title="1" style="text-align: center;" width="38%">
+          <p class="font2 mt-3" style="text-align: center;"> ระดับอุดมศึกษา <br>
+            มหาวิทยาลัยศิลปากร นครปฐม</p>
+        </div>
+      </div>
+      <div class="row" style="text-align: center;">
+        <h2 style="text-align: center;"> <a id="act"><span style="color: #66cccc;">Activities😺</span></a>
+        </h2>
+      </div>
+      <hr> </div>
+    <div class="container">
+      <div class="row">
+        <div class=" mt-4 col-3"> <img src="images/IMG_7369.JPG" class="img-fluid"
+
+            alt="11" title="11"></div>
+        <div class="col-8 h2 font2"><span style="color: #339999;">
+            <h1> Trendy&amp;Smarts Team 2021 </h1>
+          </span> <br>
+          <p class="mt-4 text2"> แคทได้รับรางวัล Trendy and Smart Team ในปี 2021
+            ด้วยความสามารถในการร้องเพลง เล่นดนตรีคาลิมบา การกล่าวสุนทรพจน์
+            และการตอบคำถาม</p>
+        </div>
+        <div class="col-1"> </div>
+      </div>
+      <div class="row">
+        <div class=" mt-4 col-3"><img src="images/F435AF2B-922D-4D1D-9047-F5ABEBE3564E.JPG"
+
+            class="img-fluid" alt="2" title="2"></div>
+        <div class="col-8 h2 font2"><span style="color: #339999;">
+            <h1> Moderator of Artsalive </h1>
+          </span> <br>
+          <p class="mt-4 text2"> แคทได้รับหน้าที่เป็นหนึ่งในพิธีกร ในโครงการ
+            Artsalive โครงการแนะนำการรับสมัครสอบปี 2566
+            และกล่าวแนะนำคณะอักษรศาสตร์ และมหาวิทยาลัยศิลปากรให้แก่น้อง
+            ๆที่เข้ารับการศึกษาใหม่</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class=" mt-4 col-3"><img src="images/C83089A1-8E80-4D71-9F7D-AB885916474B.JPG"
+
+            class="img-fluid" alt="3" title="3"></div>
+        <div class="col-8 h2 font2"><span style="color: #339999;">
+            <h1> Staff พิธีไหว้ครู </h1>
+          </span> <br>
+          <p class="mt-4 text2"> แคทได้รับหน้าที่เป็นผู้ช่วยงานไหว้ครู </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class=" mt-4 col-3"><img src="images/IMG_3889.jpg" class="img-fluid"
+
+            alt="1" title="1"></div>
+        <div class="col-8 h2
+                    font2"><span style="color: #339999;">
+            <h1> Su Volunteer </h1>
+          </span> <br>
+          <p class="mt-4 text2"> แคทได้เข้ากิจกรรมจิตอาสาของมหาวิทยาลัยศิลปากร
+            ของ ชมรม suyounth </p>
+        </div>
+      </div>
+      <div class="row" style="text-align: center;">
+        <h2 style="text-align: center;" class="mt-4"> <a id="work"><span style="color: #66cccc;">Work
+              Experience😺</span></a> </h2>
+        <hr> </div>
+      <div class="row">
+        <div class="mt-4 col-6">
+          <div style="text-align: center;"><img src="images/IMG_7362.PNG" class="circle img-fluid"
+
+              alt="1" title="1"><br>
+          </div>
+          <div class="accordion mt-4" id="accordionExample1">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne1"> <button class="accordion-button font2"
+
+                  type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne1"
+
+                  aria-expanded="true" aria-controls="collapseOne1"> Kumon </button>
+              </h2>
+              <div id="collapseOne1" class="accordion-collapse collapse" aria-labelledby="headingOne1"
+
+                data-bs-parent="#accordionExample1">
+                <div class="accordion-body">
+                  <p class="font2">ดิฉันเคยทำงานเป็นครูผู้ช่วยในสถาบัน Kumon
+                    ดูแลเด็กนักเรียนในทุกช่วงวัยในรายวิชาภาษาไทย
+                    ภาษาอังกฤษและคณิตศาสตร์ </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-4 col-6">
+          <div style="text-align: center;"><img src="images/IMG_7363.JPG" class="circle img-fluid"
+
+              alt="2" title="2"></div>
+          <div class="accordion mt-4" id="accordionExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne"> <button class="accordion-button font2"
+
+                  type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+
+                  aria-expanded="true" aria-controls="collapseOne"> Mali farm </button>
+              </h2>
+              <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <p class="font2">ดิฉันเคยทำงานเป็นพนังงานร้านเครื่องดื่มและ
+                    เบเกอร์รี่ร้านมะลิฟาร์มนครปฐม </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row" style="text-align: center;">
+          <h2 style="text-align: center;" class="mt-4"> <a id="hobby"><span style="color: #66cccc;">Hobby😺</span></a>
+          </h2>
+          <hr><br>
+        </div>
+        <div class="row">
+          <div class="mt-4 col-6">
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+
+                  data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators"
+
+                  data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button"
+
+                  data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+
+                  aria-label="Slide 3"></button> </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active"> <img src="images/IMG_3855.jpg"
+
+                    class="d-block w-100" alt="..."> </div>
+                <div class="carousel-item"> <img src="images/cat2.jpeg" class="d-block w-100"
+
+                    alt="..."> </div>
+                <div class="carousel-item"> <img src="images/cat3.jpg" class="d-block w-100"
+
+                    alt="..."> </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+
+                data-bs-slide="prev"> <span class="carousel-control-prev-icon"
+
+                  aria-hidden="true"></span> <span class="visually-hidden">Previous</span>
+              </button> <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+
+                data-bs-slide="next"> <span class="carousel-control-next-icon"
+
+                  aria-hidden="true"></span> <span class="visually-hidden">Next</span>
+              </button> </div>
+            <p class="pt-3 font2"> แคทมักใช้เวลาว่างไปกับการนอนค่ะ
+              แต่นอกจากนอนแล้วก็ยังมีกิจกรรมอื่น ๆ เช่น การฟังเพลง ดูการ์ตูน
+              วาดรูป ถ่ายรูป ทำอาหาร และอ่านหนังสือค่ะ </p>
+          </div>
+          <div class="mt-4 col-6">
+            <div id="carouselExampleIndicators1" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/tongdee.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/td2.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/td3.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators1" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+            <p class="pt-3 font2"> แคทมีสุนัขสองตัวค่ะ แต่ก่อนมีสามตัว
+              ฉันรักหมาและสัตว์หลากหลายชนิด
+              เพราะพวกเขาคือเพื่อนที่ดีที่สุดสำหรับฉันค่ะ </p>
+          </div>
+        </div>
+        <div class="row" style="text-align: center;">
+          <h2 style="text-align: center;" class="mt-4"> <a id="love"><span style="color: #66cccc;">Love</span></a>
+          </h2>
+          <hr><br>
+          <p class="pt-3 font2"> แคทชอบดอกไม้ การดูดาว พระจันทร์ และท้องฟ้า
+            การร้องเพลง ศิลปะ และสุดท้ายนี้ แคทชอบตัวเองที่สุดเลยค่ะ </p>
+        </div>
+        <div class="row">
+          <div class="col-4"> </div>
+          <div class="col-4 mt-4" style="text-align: center;"> <img src="images/IMG_3892.jpg"
+
+              class="circle img-fluid" width="100%"> </div>
+          <div class="col-4"> </div>
+        </div>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script></div>
+    <footer class="page-footer mt-4">
+      <h3 style="text-align: center;" class="py-4"> Thank you </h3>
+    </footer>
+  </body>
+</html>
